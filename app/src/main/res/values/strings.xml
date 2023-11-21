@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">JobHub</string>
-    <string name="Main">JobHub</string>
+    <string name="Main">JH</string>
+    <string name="Login">Email or User</string>
+    <string name="Pass">Password</string>
+    <string name="name">Name</string>
+    <string name="Confirm">Confirm password</string>
 </resources>
